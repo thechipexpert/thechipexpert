@@ -2,7 +2,7 @@
 
 ## christian.sartori@gmail.com
 ## https://www.linkedin.com/in/c-sartori
-## https://github.com/thechipexpert/thechipexpert/edit/main/README.md
+## https://github.com/thechipexpert/thechipexpert/blob/main/README.md
 ## (713) 623-3353
 ## Austin, TX
 
