@@ -6,14 +6,6 @@
 ## (713) 623-3353
 ## Austin, TX
 
-### EDUCATION
-***
-THE UNIVERSITY OF TEXAS AT AUSTIN, McCombs School of Business, Austin, TX | May 2019 \
-Master of Business Administration	GPA: 3.9
-
-UNIVERSITY OF CONNECTICUT, School of Engineering, Storrs, CT | May 2010 \
-Bachelor of Science in Materials Science & Engineering
-
 ### EXPERIENCE
 ***
 **ALIXPARTNERS, LLP – Houston, TX | 2019 – 2021**\
@@ -40,6 +32,14 @@ Bachelor of Science in Materials Science & Engineering
 
 **Process Engineer 2 | 2013 – 2015**
 *	Improved process capability through design of experiments methodology (DOE) that decreased product variation, reduced equipment downtime, and improved yield for a total incremental revenue impact of $10M annually
+
+### EDUCATION
+***
+THE UNIVERSITY OF TEXAS AT AUSTIN, McCombs School of Business, Austin, TX | May 2019 \
+Master of Business Administration	GPA: 3.9
+
+UNIVERSITY OF CONNECTICUT, School of Engineering, Storrs, CT | May 2010 \
+Bachelor of Science in Materials Science & Engineering
 
 ### ADDITIONAL PROFICIENCIES & INTERESTS
 ***
