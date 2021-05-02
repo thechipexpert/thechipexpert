@@ -1,20 +1,21 @@
-# CHRISTIAN SARTORI
+# Christian Sartori
 
 ## christian.sartori@gmail.com
 ## https://www.linkedin.com/in/c-sartori
-##
-## Austin, TX | (713) 623-3353
+## https://github.com/thechipexpert/thechipexpert/edit/main/README.md
+## (713) 623-3353
+## Austin, TX
 
 ### EDUCATION
-________________________________________
-THE UNIVERSITY OF TEXAS AT AUSTIN, McCombs School of Business, Austin, TX 	May 2019
+***
+THE UNIVERSITY OF TEXAS AT AUSTIN, McCombs School of Business, Austin, TX | May 2019 \
 Master of Business Administration	GPA: 3.9
 
-UNIVERSITY OF CONNECTICUT, School of Engineering, Storrs, CT 	May 2010
+UNIVERSITY OF CONNECTICUT, School of Engineering, Storrs, CT | May 2010 \
 Bachelor of Science in Materials Science & Engineering
 
 ### EXPERIENCE
-________________________________________
+***
 **ALIXPARTNERS, LLP – Houston, TX | 	2019 – 2021**
 **Vice President of Enterprise Improvement**
 ●	Analyzed and implemented cost optimization initiatives through streamlining customer service operations for a $2.3B national energy provider that resulted in $20M in reduced run-rate costs 
@@ -41,7 +42,7 @@ ________________________________________
 ●	Improved process capability through design of experiments methodology (DOE) that decreased product variation, reduced equipment downtime, and improved yield for a total incremental revenue impact of $10M annually
 
 ### ADDITIONAL PROFICIENCIES & INTERESTS
-________________________________________
+***
 ●	Expert – Excel; Intermediate – Tableau data visualization
 ●	Financial statement preparation and analysis – liquidity, working capital, and cash flow modeling; margin and EBITDA analysis; general ledger and cost structure analysis
 **●	Work Eligibility: Eligible to work in the United States with no restrictions**
