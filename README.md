@@ -10,7 +10,11 @@
 ***
 **ALIXPARTNERS, LLP – Houston, TX | 2019 – 2021**\
 **Vice President of Enterprise Improvement**
-*	Analyzed and implemented cost optimization initiatives through streamlining customer service operations for a $2.3B national energy provider that resulted in $20M in reduced run-rate costs 
+*	Produced detailed market research reports and EBITDA performance improvement proposals for the financial services industry with a primary focus on PE portfolio companies in wealth/asset management, insurance, and payments
+*	Developed cash flow and liquidity models, including complex scenario planning, for a $900M revenue oil and gas company in preparation for Chapter 11 bankruptcy filing
+*	Executed organizational analysis for a $2B convenience store franchise to identify cost synergies up to $2M
+*	Analyzed and implemented cost optimization initiatives through streamlining customer service operations for a $2.3B national energy provider that resulted in $20M in reduced annual operating expenses 
+
 
 **RIPPLE – San Francisco, CA | MBA+ Consulting Project | Spring 2018**
 *	Utilized Political, Economic, Socio-cultural, Technology (PEST) analysis to identify key economic, regulatory and technological factors in a significant emerging market segment to decrease strategic execution lead time by 3 months
