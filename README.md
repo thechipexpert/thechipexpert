@@ -37,6 +37,9 @@
 **Process Engineer 2 | 2013 – 2015**
 *	Improved process capability through design of experiments methodology (DOE) that decreased product variation, reduced equipment downtime, and improved yield for a total incremental revenue impact of $10M annually
 
+**Equipment Engineer 1 | 2011 - 2013**
+* Qualified and procured second-source consumables to reduce equipment maintenance costs by $50k annually
+
 ### EDUCATION
 ***
 THE UNIVERSITY OF TEXAS AT AUSTIN, McCombs School of Business, Austin, TX | May 2019 \
@@ -53,3 +56,5 @@ Bachelor of Science in Materials Science & Engineering
 *	Financial statement preparation and analysis – liquidity, working capital, and cash flow modeling; margin and EBITDA analysis; general ledger and cost structure analysis
 
 #### **Work Eligibility: Eligible to work in the United States with no restrictions**
+
+#### **References available upon request**
