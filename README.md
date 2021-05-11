@@ -1,6 +1,6 @@
 # Christian Sartori
 
-## christian.sartori@gmail.com
+## 📧 christian.sartori@gmail.com
 ## https://www.linkedin.com/in/c-sartori
 ## https://github.com/thechipexpert
 ## (713) 623-3353
