@@ -2,7 +2,7 @@
 
 ## 📧 christian.sartori@gmail.com
 ## 📌 https://www.linkedin.com/in/c-sartori
-## 💻 https://github.com/thechipexpert
+## 💻 https://github.com/thechipexpert/bitcoin
 ## 📞 (713) 623-3353
 ## 🏠 Austin, TX
 
