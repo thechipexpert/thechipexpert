@@ -50,7 +50,7 @@ Bachelor of Science in Materials Science & Engineering
 
 ### ADDITIONAL PROFICIENCIES & INTERESTS
 ***
-* Intermediate: Tableau data visualization, asymmetric cryptography, digital signatures, bitcoin script and programming
+* Intermediate: Tableau data visualization, asymmetric cryptography, digital signatures, bitcoin wallets, transactions
 * Advanced: bitcoin, Microsoft Excel, Austrian economics and monetary theory
 *	Financial statement preparation and analysis – liquidity, working capital, and cash flow modeling; margin and EBITDA analysis; general ledger and cost structure analysis
 
